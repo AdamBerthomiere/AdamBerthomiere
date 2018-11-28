@@ -6,7 +6,7 @@ disqus:
 
 menu:
 - {name: 'A propos de moi ?', path: 'menu', url: 'A propos de moi.html'}
- {name: 'Mon parcours', path: 'menu', url: 'Mon parcours.html'}
+- {name: 'Mon parcours', path: 'menu', url: 'Mon parcours.html'}
 - {name: 'Mes hobbies', path: 'menu', url: 'Mes hobbies.html'}
 - {name: 'Me contacter', path: 'menu', url: 'Me contacter.html'}
 
