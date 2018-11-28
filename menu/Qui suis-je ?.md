@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Qui suis-je ?
 ---
 
 Si vous souhaitez me contacter voici mon email : berthomiereadam@gmail.com
