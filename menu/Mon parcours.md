@@ -4,9 +4,14 @@ title: A propos de moi
 ---
 <B>Mon parcours scolaire :</B>
 
-UNIVERSITE DU QUEBEC A CHICOUTIMI (CANADA) — BACCALAUREAT EN ADMINISTRATION DES AFFAIRES, OPTION MARKETING INTERNATIONAL — 2014/2015
-UNIVERSITY D’ORLEANS (FRANCE) — DUT TECHNIQUES DE COMMERCIALISATION, OPTION MARKETING INTERNATIONAL — 2012/2014
-LYCEE CAMILLE CLAUDEL (FRANCE) — BACCALAUREAT EN SCIENCES DE L’INGENIEUR + CERTIFICAT INFORMATIQUE ET INTERNET (C2I), 2009/2012
+<center>UNIVERSITE DU QUEBEC A CHICOUTIMI (CANADA) <br>
+ Baccalauréat en Administration des Affaires, option marketing international — 2014/2015 <br>
+ <br>
+UNIVERSITY D’ORLEANS (FRANCE)<br>
+ DUT Techniques de Commercialisation, option marketing international — 2012/2014 <br>
+ <br>
+LYCEE CAMILLE CLAUDEL (FRANCE) <br>
+ baccalauréat en Sciences et Sciences de l'ingénieur + Certificat Informaique et Internet (C2I), 2009/2012</center>
 
 
 <B>Mon parcours professionnel :</B>
