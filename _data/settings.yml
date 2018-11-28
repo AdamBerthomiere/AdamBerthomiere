@@ -5,10 +5,10 @@ disqus:
 
 
 menu:
-- {name: 'Qui suis-je ?', path: 'menu', url: 'Qui suis-je ?.html'}
+- {name: 'A propos de moi ?', path: 'menu', url: 'A propos de moi.html'}
 - {name: 'Mon parcours', path: 'menu', url: 'Mon parcours.html'}
 - {name: 'Mes hobbies', path: 'menu', url: 'Mes hobbies.html'}
-- {name: 'Contactez-moi', path: 'menu', url: 'contactez-moi.html'}
+- {name: 'Me contacter', path: 'menu', url: 'Me contacter.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
