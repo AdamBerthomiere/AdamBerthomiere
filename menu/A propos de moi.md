@@ -2,7 +2,7 @@
 layout: page
 title: A propos de moi
 ---
-<B> Qui suis-je ? <B/><br>
+<B> Qui suis-je ? </B> <br>
 <br>
 Cela fait maintenant 4 ans que j'ai quitté les bancs de l'école (cf. onglet "Mon parcours") afin de découvrir le monde, m'ouvrir l'ésprit, et améliorer mon anglais.<br>
 Et maintenant ? Mon anglais professionnel est parfait, j'ai eu la chance de pouvoir travailler au Canada, aux USA ansi qu'en Australie pour de très grands noms de la restauration (Paul Bocuse, Johnny di Francesco) sur des postes de management. Pourquoi la restauration ? Parce que je savais que si je voulais voyager et travailler en même temps c'était le milieu parfait pour. Mais la restauration ça va bien un moment et ce moment est finis.<br>
