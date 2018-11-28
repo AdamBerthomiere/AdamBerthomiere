@@ -2,14 +2,14 @@
 layout: page
 title: A propos de moi
 ---
-##Mon parcours scolaire :
+<B>Mon parcours scolaire :</B>
 
 UNIVERSITE DU QUEBEC A CHICOUTIMI (CANADA) — BACCALAUREAT EN ADMINISTRATION DES AFFAIRES, OPTION MARKETING INTERNATIONAL — 2014/2015
 UNIVERSITY D’ORLEANS (FRANCE) — DUT TECHNIQUES DE COMMERCIALISATION, OPTION MARKETING INTERNATIONAL — 2012/2014
 LYCEE CAMILLE CLAUDEL (FRANCE) — BACCALAUREAT EN SCIENCES DE L’INGENIEUR + CERTIFICAT INFORMATIQUE ET INTERNET (C2I), 2009/2012
 
 
-##Mon parcours professionnel :
+<B>Mon parcours professionnel :</B>
 
 • Serveur / Manageur de Pass à 400 Gradi/Crown Casino (CDD de 5 mois), Melbourne/Australie — Mai 2018 à Septembre 2018 :
 - Manageur de pass : Gérer l’équipe de salle pour assurer le bon déroulement et la préparation de l’ouverture, de la journée et de la fermeture du restaurant. Gérer toute communication entre la salle et la cuisine. Assurer la bonne distribution ainsi que la qualité et la présentation de chacun des plats. - Serveur : Travail basique du serveur mais service de haut standard (restaurant à renommée internationale). Obtention de nombreux 1er prix pour challenges de meilleur vendeur.
