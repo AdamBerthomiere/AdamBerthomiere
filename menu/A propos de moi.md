@@ -4,6 +4,10 @@ title: A propos de moi
 ---
 <B> Qui suis-je ? </B> <br>
 <br>
+<p>
+ <img src="https://images.pexels.com/photos/1573460/pexels-photo-1573460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="200" width="200"/>
+</p>
+<br>
 <div STYLE="text-align:justify; width : 700px;">Cela fait maintenant 4 ans que j'ai quitté les bancs de l'école (cf. onglet "Mon parcours") afin de découvrir le monde, m'ouvrir l'ésprit, et améliorer mon anglais.<br>
 Et maintenant ? Mon anglais professionnel est parfait, j'ai eu la chance de pouvoir travailler au Canada, aux USA ansi qu'en Australie pour de très grands noms de la restauration (Paul Bocuse, Johnny di Francesco) sur des postes de management. Pourquoi la restauration ? Parce que je savais que si je voulais voyager et travailler en même temps c'était le milieu parfait pour. Mais la restauration ça va bien un moment et ce moment est fini.<br>
   <br>
