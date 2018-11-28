@@ -2,10 +2,10 @@
 layout: page
 title: A propos de moi
 ---
-<B> Qui suis-je ? </B> <br>
+<center> <B> Qui suis-je ? </B> <br> </center>
 <br>
 <p>
- <center><img src="https://images.pexels.com/photos/1573460/pexels-photo-1573460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="200" width="200"/></center>
+ <center> <img src="https://images.pexels.com/photos/1573460/pexels-photo-1573460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="200" width="200"/> </center>
 </p>
 <br>
 <div STYLE="text-align:justify; width : 700px;">Cela fait maintenant 4 ans que j'ai quitté les bancs de l'école (cf. onglet "Mon parcours") afin de découvrir le monde, m'ouvrir l'ésprit, et améliorer mon anglais.<br>
