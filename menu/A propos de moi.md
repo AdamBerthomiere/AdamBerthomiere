@@ -2,28 +2,10 @@
 layout: page
 title: A propos de moi
 ---
-##Mon parcours scolaire :
-
-UNIVERSITE DU QUEBEC A CHICOUTIMI (CANADA) — BACCALAUREAT EN ADMINISTRATION DES AFFAIRES, OPTION MARKETING INTERNATIONAL — 2014/2015
-UNIVERSITY D’ORLEANS (FRANCE) — DUT TECHNIQUES DE COMMERCIALISATION, OPTION MARKETING INTERNATIONAL — 2012/2014
-LYCEE CAMILLE CLAUDEL (FRANCE) — BACCALAUREAT EN SCIENCES DE L’INGENIEUR + CERTIFICAT INFORMATIQUE ET INTERNET (C2I), 2009/2012
-
-
-##Mon parcours professionnel :
-
-• Serveur / Manageur de Pass à 400 Gradi/Crown Casino (CDD de 5 mois), Melbourne/Australie — Mai 2018 à Septembre 2018 :
-- Manageur de pass : Gérer l’équipe de salle pour assurer le bon déroulement et la préparation de l’ouverture, de la journée et de la fermeture du restaurant. Gérer toute communication entre la salle et la cuisine. Assurer la bonne distribution ainsi que la qualité et la présentation de chacun des plats. - Serveur : Travail basique du serveur mais service de haut standard (restaurant à renommée internationale). Obtention de nombreux 1er prix pour challenges de meilleur vendeur.
-• Serveur / Manageur de Pass à Ca de vin (CDD de 6 mois), Melbourne/Australie — Novembre 2017 à Avril 2018
-• Agent de manutention à Codis (CDD de 5 mois), Tours/France — Juin 2017 à Octobre 2017 :
-Chargement et déchargement de véhicules. Opérations de tri et stockage des produits en magasin. Conditionnement : cerclage, étiquetage, filmage. Nettoyage des zones de stockage et de travail. Mise à disposition des marchandises (transport au sein des dépôts, ou vers les zones de production). Consignation du travail effectué sur un document témoin dans l’objectif de la localisation de la marchandise et de la facturation au client. Signalement des marchandises détériorées ou manquantes.
-• Team Leader (Manageur) à Chefs de France/Groupe Jérome Bocuse (Programme DisneyWorld), Orlando/USA — Septembre 2016 à Mai 2017 :
-Superviser l’équipe de salle. Assurer les formations des nouveaux employés. Gérer les réclamations et plaintes des clients et du personnel. Délivrer un service au clients de haut standard (établissement à renommée internationale). Gérer les stocks, la qualité des produits et la propreté des lieux. Assurer le bon suivi des règles sanitaire. Gérer les événements promotionnels.
- 
-• Vendeur et merchandiseur à Chausséa (CDD de 5 mois), Tours/France — Mai 2016 à Septembre 2016 :
-Comprendre les besoins du consommateur et lui trouver “chaussure à son pied”. S’occuper du merchandising, du stock et de la propreté des lieux. Encaisser les clients. Gérer les livraisons et ranger en magasin.
-• Serveur / hôte à Chez Georges (CDD de 5 mois), Chicoutimi/Canada — Octobre 2015 à Février 2016 :
-Hôte : Accueillir et placer les clients, gérer les réservations, gérer les livraisons et livreurs, gérer les réclamations et plaintes des clients. Fermer les comptes de la journée.
-• Agent en plateforme d’appel à Uni-marketing (Job étudiant), Chicoutimi/Canada — Mai 2015 à Septembre 2015 :
-Suivre les carnets d’appel et appeler les prospects afin de leurs vendre différent services ou obtenir certaines informations et tenir un compte rendus de chacun des appels. (Obtention de très bons résultat de ventes, classé 3ème meilleur vendeur avec une moyenne d’un appel sur 6 transformé)
-• Employé polyvalent puis manageur à Burger-king (Job étudiant), Chicoutimi/Canada — Septembre 2014 à Avril 2015 :
-Manageur : Superviser l’équipe ainsi que l’ouverture et la fermeture de l’établissement. Engager et former les nouveaux employés. Assurer le suivi des des consignes d’hygiène et de sécurité. Accueillir les clients, préparer la nourriture, suivre le stock et assurer la propreté des lieux et l’efficience des opérations. Gérer les réclamations et plaintes des clients et du personnel.
+Cela fait maintenant 4 ans que j'ai quitté les bancs de l'école (cf. onglet "Mon parcours") afin de découvrir le monde, m'ouvrir l'ésprit, et améliorer mon anglais.
+Et maintenant ? Mon anglais professionnel est parfait, j'ai eu la chance de pouvoir travailler au Canada, aux USA ansi qu'en Australie pour de très grands noms de la restauration (Paul Bocuse, Johnny di Francesco) sur des postes de management. Pourquoi la restauration ? Parce que je savais que si je voulais voyager et travailler en même temps c'était le milieu parfait pour. Mais la restauration ça va bien un moment et ce moment est finis.
+J'ai fais un Bac scientifique car j'adorais la science et la technologie, surtout les robots c'est ce que je voulais fabriquer et puis j'étais un "matheux" pour moi les formules n'avaient pas de secret. Mais en fin de Bac, il me manquait quelque chose. C'est au même moment que j'ai découvert le développement personnel... Et j'ai adoré, c'est ce qu'il me fallait et cela m'a donc amené à suivre un cursus universitaire dans le commerce et le marketing.
+Maintenant je voyage constamment et recherche tous moyens de méler mon sens du commerce, du service client à la technologie.
+J'ai fais quelques essais de sites E-commerce qui ont marchés plus ou moins quelques temps, mais comme je voyageais beaucoups, il était plutôt difficile de garder contact avec les fournisseurs, et de garder un bon suivis client, j'ai donc arrêté.
+Puis j'ai découvert le freelance, mais je n'avais pas les bases pour travailler dans ce milieu peu importe le domaine.
+Me voilà donc prêt à acquérir les bases du développement web car c'est pour moi le domaine avec les challenges les plus intéressants.
