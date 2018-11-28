@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Writing
 ---
 <ul class="posts">
   {% for post in site.posts %}
